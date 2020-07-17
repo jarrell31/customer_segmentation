@@ -1,4 +1,5 @@
 # customer_segmentation
+Trying to get more fimiliar with k-means clustering
 
 Data: https://drive.google.com/file/d/19BOhwz52NUY3dg8XErVYglctpr5sjTy4/view
 
