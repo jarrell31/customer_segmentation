@@ -1,5 +1,3 @@
-setwd('C:/Users/Owner/Desktop/The 9 Projects/Customer Segmentation')
-
 #read in data
 mall_customers <- read.csv("Mall_Customers.csv")
 
